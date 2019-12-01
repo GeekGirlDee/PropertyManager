@@ -1,0 +1,14 @@
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\PropertyManger.Entities.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\PropertyManger.Entities.pdb
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\obj\Debug\PropertyManger.Entities.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\obj\Debug\PropertyManger.Entities.pdb
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\PropertyManger.Entities.dll.config
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sello\documents\visual studio 2017\Projects\PropertyManger\PropertyManger.Entities\obj\Debug\PropertyManager.Entities.csprojResolveAssemblyReference.cache
